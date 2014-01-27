@@ -1,0 +1,52 @@
+/* login panel */
+
+.loginpanel{
+
+  border-radius: 5px;
+  border:1px solid;
+  border-color: #A9A9A9;
+
+  width: 120px;
+  padding:3px;
+  padding-left:10px;
+  margin-top: 10px;
+
+  background-color: #E7E7E7;
+
+  font-size:14px;
+}
+
+.loginpanel input{
+  width: 110px;
+
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 11px; 
+
+  padding-top: 1px; 
+  padding-right: 0px; 
+  padding-bottom: 1px; 
+  padding-left: 2px; 
+
+  height: 18px 
+}
+
+.loginpanel .submit{
+  margin-top: 15px;
+  margin-bottom: 5px;
+  width: 114px;
+}
+
+.loginpanel label{
+  display:block;
+  margin-top: 5px;
+}
+
+.loginpanel p{
+  padding: 0px;
+  margin: 0px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+
+  text-align:center;
+}
+

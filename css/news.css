@@ -1,0 +1,36 @@
+/* News */
+
+.news .title {
+  margin-top:10px;
+}
+
+.news .date{
+  font-weight:bold;
+  display:block;
+}
+
+.news .datetoday{
+  font-weight:bold;
+  display:block;
+  color:red;
+}
+
+.news a{
+  text-decoration:none;
+  color:#000000;
+}
+
+.news a:hover{
+  text-decoration:underline;
+}
+
+.news .newslist {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+}
+
+.news .newslist li {
+  margin-bottom: 10px;
+}
